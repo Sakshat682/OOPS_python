@@ -1,0 +1,5 @@
+## IF WE WANT WE CAN ALSO JUST IMPORT THE SPECIFIC FUNCTIONS FROM A FILE
+## FOR EXAMPLE
+
+from calculations import add 
+print(add(4,5))    ##EXPECTED OUTPUT 9
